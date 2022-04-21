@@ -1,3 +1,5 @@
+Fixes for "Could not find a declaration file for module 'redux-persist/lib/storage/createWebStorage'"
+
 # Redux Persist
 Persist and rehydrate a redux store.
 
